@@ -2,16 +2,16 @@ window.onload=function(){
 	$('.choose').eq(0).hover(function(){
 		$(this).toggleClass('green');
 	}).click(function(){
-		window.location.href='../snack.html?120'
+		window.location.href='demo/snack.html?120'
 	});
 	$('.choose').eq(1).hover(function(){
 		$(this).toggleClass('yellow');
 	}).click(function(){
-		window.location.href='../snack.html?60'
+		window.location.href='demo/snack.html?60'
 	});
 	$('.choose').eq(2).hover(function(){
 		$(this).toggleClass('red');
 	}).click(function(){
-		window.location.href='../snack.html?30'
+		window.location.href='demo/snack.html?30'
 	});
 }

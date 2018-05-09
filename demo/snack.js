@@ -22,7 +22,7 @@ window.onload=function(e){
 		window.location.reload();
 	})
 	$('.refuse').click(function(){
-		window.location.href='demo/demo.html';
+		window.location.href='../demo.html';
 	})
 }
 
