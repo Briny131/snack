@@ -1,0 +1,33 @@
+body{
+	background: #B8B8B8;
+	font-size: 30px;
+}
+.box{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 400px;
+	height: 500px;
+	margin: auto;
+	text-align: center;
+}
+.title{
+	font-size: 200%;
+	font-weight: bold;
+	color: #9E3611;
+	margin: 50px 0 30px;
+}
+.choose{
+	margin: 30px 0 30px;
+}
+.green{
+	color: #45F43E;
+}
+.yellow{
+	color: #FFF058;
+}
+.red{
+	color: #FC3E3E;
+}
